@@ -1,10 +1,46 @@
-# Getting Started with Create React App
+# 🧭 Selfscape - Interactive Personality & Wellness Quiz
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+> **EPACSFLES** spelled backward becomes **SELFSCAPE** - a journey to discover your inner landscape!
 
-## Available Scripts
+Selfscape is a modern, interactive web application that helps users discover their stress management style through a personalized quiz. Built with React, TypeScript, and Material-UI, it provides users with tailored insights and actionable wellness tips.
 
-In the project directory, you can run:
+## ✨ Features
+
+- **Interactive Quiz Engine**: 8 thoughtfully designed questions with multiple choice, sliders, and checkbox responses
+- **Personality Profiling**: 6 distinct stress management profiles with personalized characteristics
+- **Visual Results**: Beautiful charts and visualizations using Recharts
+- **Personalized Tips**: Customized wellness recommendations based on user profile
+- **Responsive Design**: Works seamlessly on desktop, tablet, and mobile devices
+- **Progress Tracking**: Visual progress bar and question counter
+- **Local Storage**: Saves quiz progress automatically
+- **Modern UI**: Clean, gradient-based design with smooth animations
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Node.js (v16 or higher)
+- npm or yarn
+
+### Installation
+
+1. **Navigate to the project directory**
+   ```bash
+   cd epacsfles/web/selfscape
+   ```
+
+2. **Install dependencies**
+   ```bash
+   npm install
+   ```
+
+3. **Start the development server**
+   ```bash
+   npm start
+   ```
+
+4. **Open your browser**
+   Navigate to `http://localhost:3000` to see the app running.
 
 ### `npm start`
 
